@@ -1,0 +1,76 @@
+/* Reset some default styles */
+body {  
+    background-color: #333;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    width: 250px;
+    height: 250px;
+    border-radius: 4px;
+    border: 3px solid #333;
+}
+
+hr{ 
+  color:#333;
+}
+
+  .header {
+    background-color: #333;
+    margin-top: 5px;
+    margin-right: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .title {
+    padding-left: 5px;
+    margin: 0;
+  }
+  
+  #addBookmarkBtn {
+    padding: 4px 8px;
+    background-color: inherit;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: #333;
+    z-index: 9999; /* Ensure button is on top */
+  }
+
+  .link-cell a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .bookmark-table {
+    width: 100%;
+  }
+  
+  .bookmark-row {
+    border-bottom: 1px solid #999;
+  }
+  
+  .bookmark-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+  }
+  
+  .link-cell {
+    width: 160px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  .remove-btn {
+    padding: 4px 8px;
+    background-color:inherit;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: #333;
+  }
+  
+  .remove-btn:hover {
+    background-color: #ff0000;
+  }
