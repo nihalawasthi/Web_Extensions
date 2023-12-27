@@ -1,6 +1,6 @@
 # Web_Extensions
 
-### Installations
+## Installations
 
 -**to Install the Extension** <br>
 -**Download CRX file of the extension**<br>
