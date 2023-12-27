@@ -5,7 +5,7 @@
 <li>Games - Your Personal Games List</li>
 </ul>
 
-## Installations
+## Installation
 
 <li>to Install the Extension <br></li>
 <li>Download CRX file of the extension<br></li>
