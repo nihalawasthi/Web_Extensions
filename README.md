@@ -7,11 +7,11 @@
 
 ## Installation
 
-<li>to Install the Extension <br></li>
-<li>Download CRX file of the extension<br></li>
-<li>next open your Extension manager in your Browser<br></li>
-<li>Drag and Drop you CRX Extension file in manager<br></li>
-<li>You are all set to go</li>
+* **to Install the Extension**
+* **Download CRX file of the extension**
+* **next open your Extension manager in your Browser**
+* **Drag and Drop you CRX Extension file in manager**
+* **You are all set to go**
 
 ## Key Features of this Repository:
 
