@@ -4,6 +4,7 @@
 <ul>
 <li>Games - Your Personal Games List</li>
 </ul>
+
 ## Installations
 
 <li>to Install the Extension <br></li>
