@@ -1,8 +1,9 @@
 # Web_Extensions
 
 ## List of the Extension
--**Games - Your Personal Games List**
-
+<ul>
+<li>**Games - Your Personal Games List**</li>
+</ul>
 ## Installations
 
 -**to Install the Extension** <br>
