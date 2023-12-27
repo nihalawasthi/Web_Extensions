@@ -1,5 +1,7 @@
 # Web_Extensions
 
+**A treasure trove of extensions. Explore a diverse collection of extensions, each designed to enhance the web in unique and innovative ways.**
+
 ## List of the Extension
 <ul>
 <li>Games - Your Personal Games List</li>
